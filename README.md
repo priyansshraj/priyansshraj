@@ -11,8 +11,7 @@
 
 > Hello! I am currently pursuing a Master of Computer Applications (MCA) at A N College, Patna. I hold a Bachelor of Computer Applications (BCA) from the Of Economic Development And Social Change, Patna, Bihar. As a dedicated computer science enthusiast, I have a strong passion for learning new technologies and applying them to create innovative, impactful solutions. I’m driven by a curiosity to explore cutting-edge developments in the tech world, with a particular interest in web development and software engineering. My goal is to continuously sharpen my skills and contribute to building products that solve real-world problems.
 
-## 🛠️ Tech Stack:
-## ⚙ Languages and Tools  I use : 
+## 🛠️ Tech Stack I use : 
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
@@ -32,9 +31,11 @@
 <table>
     <tr>
         <td align="center"><a href="https://github.com/priyansshraj#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=priyansshraj&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/priyansshraj#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=priyansshraj&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
         <td rowspan="2" align="center"><a href="https://github.com/priyansshraj#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansshraj&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/priyansshraj#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansshraj&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/priyansshraj#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansshraj&theme=default"/></a><a href="https://github.com/priyansshraj#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansshraj&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=priyansshraj" alt="GitHub Streak" /></a><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=priyansshraj&theme=dark" alt="GitHub Streak" /></a></td>
     </tr>
 </table>
