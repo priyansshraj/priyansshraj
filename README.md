@@ -2,6 +2,7 @@
 
 > Hello! I am currently pursuing a Master of Computer Applications (MCA) at A N College, Patna. I hold a Bachelor of Computer Applications (BCA) from the Of Economic Development And Social Change, Patna, Bihar. As a dedicated computer science enthusiast, I have a strong passion for learning new technologies and applying them to create innovative, impactful solutions. I’m driven by a curiosity to explore cutting-edge developments in the tech world, with a particular interest in web development and software engineering. My goal is to continuously sharpen my skills and contribute to building products that solve real-world problems.
 
+
 ## 🛠️ Tech Stack I use : 
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
