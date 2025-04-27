@@ -16,6 +16,6 @@ As a dedicated computer science enthusiast, I have a deep passion for exploring 
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></a>
 <a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://code.visualstudio.com/assets/branding/app-icon.png" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img align="left" alt="git" width="50px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/" /></a>
+<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img align="left" alt="go" width="50px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" /></a>
 <br/><br/>
 &nbsp;
